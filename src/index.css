@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@100&family=Zen+Loop&display=swap');
+
+body{
+    background-color: burlywood;
+}
+
+button{
+    margin-right: 10px;
+    padding: 21px 25px;;
+    font-size: 20px;
+    border-radius: 10px;
+    color: red;
+    background-color: chartreuse;
+    font-family: 'Encode Sans SC', sans-serif;
+    font-weight: bold;
+}
+
+div{
+    margin-top: 250px;
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    font-size: 2.5rem;
+    font-family: 'Zen Loop', cursive;
+}
+
+p{
+    font-size: 1.5rem;
+    font-family: 'Zen Loop', cursive;
+}
